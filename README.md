@@ -2,7 +2,7 @@
 
 Welcome to the **LOCAL YouTube MP3 Downloader 320kbps** 
 
-Made with ❤️ by **<SamXode/>**.
+Made with ❤️ by ''**<SamXode/>**.''
 
 ---
 
@@ -110,7 +110,7 @@ The script will process them one by one.
 
 ## 🤝 Credits
 
-Created by **<SamXode/>**, designed to make your workflow smooth.
+Created by ''**<SamXode/>**'', designed to make your workflow smooth.
 
 If you like this repo, smash that ⭐ star button on GitHub — it genuinely helps!
 
